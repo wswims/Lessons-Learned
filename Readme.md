@@ -3,5 +3,6 @@
 <ol>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Flexboxes</li>
   <li>Git</li>
 </ol>
